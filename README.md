@@ -1,6 +1,6 @@
 # hackathon-Emmaus-connect
 
-Lien Gh-pages : https://wilhem-h.github.io/
+Lien Gh-pages : https://wilhem-h.github.io/hackathon-Emmaus-connect/
 
 ## Hachathon réalisé en partenariat avec Emmaus-Connect et wild code school
 
