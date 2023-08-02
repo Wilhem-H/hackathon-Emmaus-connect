@@ -1,8 +1,8 @@
 # hackathon-Emmaus-connect
 
-Lien Gh-pages :
+Lien Gh-pages : https://wilhem-h.github.io/
 
-## Hachathon réalisé en partenariat avec Emmaus-Connect et wild code school 
+## Hachathon réalisé en partenariat avec Emmaus-Connect et wild code school
 
 Voici le projet réaliser par notre équipe pour ce premier hackathon du 28/12 au 30/12 matin.
 
@@ -15,9 +15,9 @@ Voici le projet réaliser par notre équipe pour ce premier hackathon du 28/12 a
 "react-router-dom": "^6.14.0",
 "react-toastify": "^9.1.3"
 
-## Contributeurs : 
+## Contributeurs :
 
-- Delphine:  @Delphine2669
-- Waheb:  @Waheb26
-- Nicolas:  @TaupeHumide
-- Wilhem:  @Wilhem-H
+- Delphine: @Delphine2669
+- Waheb: @Waheb26
+- Nicolas: @TaupeHumide
+- Wilhem: @Wilhem-H
